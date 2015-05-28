@@ -1,0 +1,217 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="es" lang="es" dir="ltr">
+  <head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
+<link rel="shortcut icon" href="/misc/favicon.ico" type="image/x-icon" />
+    <title>Universidad Tecnica Particular de Loja - U T P L | Ecuador </title> 
+    <meta name="description" content="Las relaciones internacionales nos permite tener alianzas internacionales, proyectos binacionales, convenios para el mejoramiento de los docentes mediante intercambios, programas de doctorado, con universidades de varios países del mundo, se forma profesionales con visión y validación internacional, generando procesos de movilidad estudiantil, con flexibilización del currículo, así como evaluaciones y acreditaciones de carácter internacional. " />
+	<meta name="keywords" content="utpl, www.utpl.edu.ec, universidad tecnica particular de loja, relaciones internacionales, alianzas internacionales, convenios mejoramiento docentes, estudiantes vision y validacion internacional" />
+ 	<link type="text/css" rel="stylesheet" media="all" href="/sites/default/files/ctools/css/dd40f13e1e57760f7ad8f2cf2eeef983.css?U" />
+<link type="text/css" rel="stylesheet" media="all" href="/modules/node/node.css?U" />
+<link type="text/css" rel="stylesheet" media="all" href="/modules/system/defaults.css?U" />
+<link type="text/css" rel="stylesheet" media="all" href="/modules/system/system.css?U" />
+<link type="text/css" rel="stylesheet" media="all" href="/modules/system/system-menus.css?U" />
+<link type="text/css" rel="stylesheet" media="all" href="/modules/user/user.css?U" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/cck/theme/content-module.css?U" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/date/date.css?U" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/date/date_popup/themes/datepicker.css?U" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/date/date_popup/themes/jquery.timeentry.css?U" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/evoc/evoc.css?U" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/filefield/filefield.css?U" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/panels/css/panels.css?U" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/cck/modules/fieldgroup/fieldgroup.css?U" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/views/css/views.css?U" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/panels/plugins/layouts/flexible/flexible.css?U" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/utpl/style.css?U" />
+<link type="text/css" rel="stylesheet" media="print" href="/sites/all/themes/utpl/print.css?U" />
+<link type="text/css" rel="stylesheet" media="screen" href="/sites/all/themes/utpl/jquery.fancybox-1.3.4.css?U" />
+    <script type="text/javascript" src="/sites/all/modules/jquery_update/replace/jquery.min.js?U"></script>
+<script type="text/javascript" src="/misc/drupal.js?U"></script>
+<script type="text/javascript" src="/sites/default/files/languages/es_58e729ac17ed1e0061404d11b6099ff0.js?U"></script>
+<script type="text/javascript" src="/sites/all/modules/panels/js/panels.js?U"></script>
+<script type="text/javascript" src="/sites/all/themes/utpl/jquery-ui-1.8.11.custom.min.js?U"></script>
+<script type="text/javascript" src="/sites/all/themes/utpl/scripts.js?U"></script>
+<script type="text/javascript" src="/sites/all/themes/utpl/jquery.mousewheel-3.0.4.pack.js?U"></script>
+<script type="text/javascript" src="/sites/all/themes/utpl/jquery.fancybox-1.3.4.pack.js?U"></script>
+<script type="text/javascript" src="/sites/all/themes/utpl/jquery.nivo.slider.pack.js?U"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, { "basePath": "/" });
+//--><!]]>
+</script>
+  
+    <script type="text/javascript"> 
+    $(document).ready(function() { 
+    
+  
+
+$("a[rel=modal]").fancybox({
+				'transitionIn'		: 'none',
+				'transitionOut'		: 'none',
+				'titlePosition' 	: 'over',
+				'cyclic'			: 'true',
+				'autoScale'			: true,
+				'autoDimensions'	: true,
+				'width': 800, 
+				'height': 515
+				
+			});
+        
+    		
+    		});
+			  
+    </script>
+  </head>
+  <body>
+	
+			<div id="header" class="containerdiv" >
+						<a href="/" title="Universidad Tecnica Particular de Loja - U T P L | Ecuador " id="homelogo"><img src="/sites/all/themes/utpl/images/logo.png" alt="Universidad Tecnica Particular de Loja - U T P L | Ecuador " id="logo" /></a>			
+			    					 
+						 <div id="headerquickacces">		
+							 <a href="/en/node/107" class="language-link">English</a>						<!--div class="hqas"></div-->
+						<a href="/mapa">Mapa</a>							 	<div class="hqas"></div>
+							<a href="#" id="servenlinea">Servicios en lînea</a>	
+						</div>
+						<div id="servenlineadiv">
+							<ul class="enlinea"><li class="menu-861 first"><a href="http://www.utpl.edu.ec/eva" title="EVA "> » EVA</a></li>
+<li class="menu-1968"><a href="http://serviciosestudiantiles.utpl.edu.ec/" title="Servicios estudiantiles "> » Servicios estudiantiles</a></li>
+<li class="menu-1800"><a href="http://distancia.utpl.edu.ec/inscripcion/paso1" title="Inscripciones MAD "> » Inscripciones MAD</a></li>
+<li class="menu-1799"><a href="http://srv-si-001.utpl.edu.ec/SFA" title="Pagos en Línea "> » Pagos en Línea</a></li>
+<li class="menu-1967"><a href="https://tramites.utpl.edu.ec/" title="Trámites académicos "> » Trámites académicos</a></li>
+<li class="menu-862"><a href="http://mail.utpl.edu.ec/" title="Mail "> » Mail</a></li>
+<li class="menu-865"><a href="http://www.utpl.edu.ec/pregrado/servicios-academicos/" title="Servicios Académicos "> » Servicios Académicos</a></li>
+<li class="menu-863"><a href="http://biblioteca.utpl.edu.ec/" title="Biblioteca "> » Biblioteca</a></li>
+<li class="menu-864 last"><a href="http://www.utpl.edu.ec/directorio/" title="Directorio "> » Directorio</a></li>
+</ul>						</div>
+						 <div id="searchbar">
+							 <form action="/wikis/matematicas_discretas/images/c/c5/Man.jpg"  accept-charset="UTF-8" method="post" id="search-block-form">
+<div><div class="searchbar">
+
+  <input type="text" class="form-text" title="" value="" size="15" id="edit-search-block-form-1" name="search_block_form" maxlength="128"/>
+  <input type="image" src="/sites/all/themes/utpl/images/search.jpg" value="Search" id="searchbt" name="op"/>
+
+  <input type="hidden" name="form_build_id" id="form-100dbbc525470a4351942beb0bc720e4" value="form-100dbbc525470a4351942beb0bc720e4"  />
+<input type="hidden" name="form_id" id="edit-search-block-form" value="search_block_form"  />
+</div>
+<script type="text/javascript">
+  $('#edit-search-block-form-1').click(
+    function() {
+      $(this).val("");
+    }
+  )
+</script> 
+
+ 
+</div></form>
+						</div>
+					   	<div id="sitenavigation">
+							   		<a href="/" title="Universidad Tecnica Particular de Loja - U T P L | Ecuador " id="homebtn"><img src="/sites/all/themes/utpl/images/homeoff.jpg" alt="Universidad Tecnica Particular de Loja - U T P L | Ecuador " /></a>								<ul class="navigation-links"><li class="menu-656 first"><a href="/utpl" title="">UTPL</a></li>
+<li class="menu-654"><a href="/academia" title="">Academia</a></li>
+<li class="menu-693"><a href="http://investigacion.utpl.edu.ec" title="">Investigación</a></li>
+<li class="menu-1740"><a href="/misiones-universitarias" title="">Misiones Universitarias</a></li>
+<li class="menu-655"><a href="/vinculacion" title="">Vinculación</a></li>
+<li class="menu-692"><a href="http://www.utpl.edu.ec/comunicacion/" title="">Comunicación</a></li>
+<li class="menu-1990 last"><a href="http://www.utpl.edu.ec/transparencia-institucional" title="">Transparencia institucional</a></li>
+</ul>					 	</div>			 
+			 </div>   
+			 <div id="submenu" class="containerdiv" style="display:block;">
+				 	 <div id="submenucontainer"  style="display:block">
+					 						 	 <ul class="submenutpl"><li class="menu-831 first"><a href="/utpl/informacion-general/historia" title="">Información</a></li>
+<li class="menu-832"><a href="/utpl/gobierno/informacion-general" title="">Gobierno</a></li>
+<li class="menu-830"><a href="/utpl/calidad-y-acreditacion" title="">Calidad y Acreditación</a></li>
+<li class="menu-829"><a href="/utpl/campus-utpl" title="">Campus UTPL</a></li>
+<li class="menu-1455"><a href="/utpl/desarrollo-personal" title="">Recursos Humanos</a></li>
+<li class="menu-1987 last"><a href="/transparencia-institucional">Transparencia institucional</a></li>
+</ul>					 	 <ul class="submenudocencia"><li class="menu-1436 first"><a href="/academia/pregrado/modalidad-presencial" title="">Pregrado</a></li>
+<li class="menu-1552"><a href="/academia/postgrado" title="">Postgrado</a></li>
+<li class="menu-1440"><a href="/academia/becas/pregrado-presencial" title="">Becas</a></li>
+<li class="menu-1439"><a href="/academia/movilidad-estudiantil" title="">Movilidad Estudiantil</a></li>
+<li class="menu-1453"><a href="http://srv-si-001.utpl.edu.ec/SAO" title="">Matrícula en línea</a></li>
+<li class="menu-1643 last"><a href="http://eva1.utpl.edu.ec/loginutpl/index.php" title="">Ingreso EVA</a></li>
+</ul>					 	 					 	 <ul class="submenuchild"><li class="menu-843 first"><a href="/vinculaci%C3%B3n/relaciones-institucionales" title="">Relaciones Institucionales</a></li>
+<li class="menu-842 last"><a href="/vinculacion/proyectos-de-extension" title="">Proyectos</a></li>
+</ul>					 	 <ul class="submenucomunicacion"><li class="menu-851 first"><a href="http://www.utpl.edu.ec/comunicacion/" title="">Blog de Noticias</a></li>
+<li class="menu-855"><a href="http://www.utpl.edu.ec/comunicacion/modalidad-a-distancia/" title="">Modalidad a Distancia</a></li>
+<li class="menu-854"><a href="http://eventosenvivo.utpl.edu.ec/" title="">UTPL en vivo</a></li>
+<li class="menu-852 last"><a href="http://agenda.utpl.edu.ec" title="">Agenda</a></li>
+</ul>				 	 </div>
+			 </div> 
+			 
+			  
+			<div id="body" class="containerdiv">
+				
+					
+				
+				
+				<div id="menuexpand"><a href="#" id="explink">Expandir menu</a></div>
+					<div id="bodyheader">
+					      
+					 <div class="breadcrumb"><a href="/wikis/matematicas_discretas/images/c/c5/Man.jpg" class="active"></a></div> 
+					</div>
+					
+			       
+			        <div id="mainconent" style="width: 922px; ">
+			        	<h1>Error</h1>
+			        				        	      
+			          			         
+			          			          			          
+			          			        
+			           <div class="panel-flexible panels-flexible-1 clear-block" >
+<div class="panel-flexible-inside panels-flexible-1-inside">
+<div class="panels-flexible-region panels-flexible-region-1-center panels-flexible-region-first panels-flexible-region-last">
+  <div class="inside panels-flexible-region-inside panels-flexible-region-1-center-inside panels-flexible-region-inside-first panels-flexible-region-inside-last">
+  </div>
+</div>
+</div>
+</div>
+			   		   <p>&nbsp;</p><p>&nbsp;</p><p class="p1">La página que busca no se encuentra disponible, por favor intente más tarde o comuníquese con nosotros.</p><p class="p1">&nbsp;</p><ul><li class="p1"><a href="/utpl/informacion-general/historia">UTPL</a></li><li class="p1"><a href="/academia/pregrado/modalidad-presencial">Academia</a></li><li class="p1"><a href="/citte/centros-de-investigación">Investigación</a></li><li class="p1"><a href="/vinculación/relaciones-institucionales/relaciones-nacionales">Vinculación</a></li><li class="p1"><a href="/comunicacion">Comunicación</a></li></ul>			         </div>
+			         
+			         
+			
+			</div>
+
+
+			<div id="footer">
+				<div class="containerdiv" >					
+	    			<div id="cc">
+					<a href="http://creativecommons.org/licenses/by-nc-nd/3.0/ec/" target="_blank"><img src="/sites/all/themes/utpl/images/cc.jpg" /></a>
+					</div>	
+					<div id="contactinfo">	
+					<p>San Cayetano Alto  - Loja Ecuador • Línea Gratuita: 1800 8875 8875</p>	
+	    				    			<ul class="footerlinks"><li class="menu-656 first"><a href="/utpl" title="">UTPL</a></li>
+<li class="menu-654"><a href="/academia" title="">Academia</a></li>
+<li class="menu-693"><a href="http://investigacion.utpl.edu.ec" title="">Investigación</a></li>
+<li class="menu-1740"><a href="/misiones-universitarias" title="">Misiones Universitarias</a></li>
+<li class="menu-655"><a href="/vinculacion" title="">Vinculación</a></li>
+<li class="menu-692"><a href="http://www.utpl.edu.ec/comunicacion/" title="">Comunicación</a></li>
+<li class="menu-1990 last"><a href="http://www.utpl.edu.ec/transparencia-institucional" title="">Transparencia institucional</a></li>
+</ul>	    				    			</div>
+	    			<a href="http://www.ideostudio.com" title="IdeoStudio" id="ids"><img  alt="IdeoStudio" src="/sites/all/themes/utpl/images/ids.jpg" /></a>
+	  			</div>
+  			</div>       
+  	
+	</form>
+</div>
+
+  	<div id="ingresoeva" style="display: none;" >
+<div id="ingresoevadiv">
+  		<h2>Ingreso al EVA(Entorno Virtual de Aprendizaje)</h2>
+		<form action="http://eva.utpl.edu.ec/eva/login/index.php" method="post" enctype="multipart/form-data" id="ingreso-eva">	
+		
+		<div class="eva-label"><label for="username">Usuario</label></div>
+		<div class="eva-field"><input type="text" name="username" id ="username" size="10" class="eva-field" value="Usuario" onfocus="if(this.value=='Usuario') this.value='';" onblur="if(this.value=='') this.value='';" autocomplete="off"/></div>
+        <div class="eva-label"><label for="password" >Clave</label></div>
+		<div class="eva-field"><input type="password" name="password" id ="password" size="10" class="eva-field" onfocus="if(this.value=='Password') this.value='';" onblur="if(this.value=='') this.value='Password';" />
+		</div>
+		<!--<input type="image" src="themes/utplsite/images/ir.gif" id="submit" name="submitButtonName" tabindex="5" alt="Ingreso al Campus" />-->
+		<div class="eva-buttom"><input type="submit" class="form-submit" id="submit" name="submitButtonName" tabindex="5" value="Ir" accesskey="i"/></div>
+		<div class="eva-field1"><input type="hidden" name="entrada" value="utpl"/></div>
+		<a href="http://eva.utpl.edu.ec/eva/enrol/utpl/login/forgot_password_utpl.php">Mi contrase&ntilde;a no funciona / Olvid&eacute; mi contrase&ntilde;a</a>			</div>
+
+	</div>
+		</div>
+	</body>
+</html>
